@@ -1,0 +1,8 @@
+# Binary
+distkv
+
+# Maelstrom output
+store/
+
+# OS
+.DS_Store
