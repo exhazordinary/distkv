@@ -1,8 +1,12 @@
 # Binary
 distkv
 
+# Rust build output
+rust/target/
+
 # Maelstrom output
 store/
+rust/store/
 
 # OS
 .DS_Store
